@@ -1,0 +1,32 @@
+h1 {
+    font-size: 31px;
+    font-weight: bold;
+    color: #293264;
+    margin: 0;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #293264;
+    margin: 0;
+    margin-top: -24px;
+}
+
+.start-game-btn {
+    border: none;
+    background-color: #4D5B9E;
+    color: white;
+    padding: 16px 58px;
+    border-radius: 16px;
+    font-size: 16px;
+}
+
+.start-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    height: 100vh;
+}
